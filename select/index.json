@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "tv off",
+  "base_artist": "ケンドリック・ラマー",
+  "createdAt": "2026-01-01T11:55:22.195383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Turn the TV Off",
+      "artist": "Love Is All",
+      "has_synced": false,
+      "path": "select/01_Turn_the_TV_Off_Love_Is_All.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/02_Kendrick_Lamar_-_tv_off_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "tv off",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/03_tv_off_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/04_Kendrick_Lamar_-_tv_off_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_Kendrick_Lamar_-_tv_off_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "tv off",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_tv_off_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Official Audio)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/07_Kendrick_Lamar_-_tv_off_(Official_Audio)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "tv off (feat. Lefty Gunplay)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/08_tv_off_(feat._Lefty_Gunplay)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "tv off (feat. lefty gunplay)",
+      "artist": "Kendrick Lamar, Lefty Gunplay",
+      "has_synced": true,
+      "path": "select/09_tv_off_(feat._lefty_gunplay)_Kendrick_Lamar,_Lefty_Gunplay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "tv off",
+      "artist": "Kendrick Lamar; Lefty Gunplay",
+      "has_synced": true,
+      "path": "select/10_tv_off_Kendrick_Lamar;_Lefty_Gunplay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Lyrics) feat. lefty gunplay",
+      "artist": "BagOnly",
+      "has_synced": true,
+      "path": "select/11_Kendrick_Lamar_-_tv_off_(Lyrics)_feat._lefty_gunplay_BagOnly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kendrick Lamar - tv off (Lyrics) feat. lefty gunplay",
+      "artist": "BagOnly",
+      "has_synced": true,
+      "path": "select/12_Kendrick_Lamar_-_tv_off_(Lyrics)_feat._lefty_gunplay_BagOnly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "tv off Explicit",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/13_tv_off_Explicit_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "TV Off",
+      "artist": "Kendrick Lamar Featuring Lefty Gunplay",
+      "has_synced": true,
+      "path": "select/14_TV_Off_Kendrick_Lamar_Featuring_Lefty_Gunplay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "tv off",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/15_tv_off_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "tv off (feat. Lefty GunPlay)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/16_tv_off_(feat._Lefty_GunPlay)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "tv off",
+      "artist": "Kendrick Lamar feat. Lefty GunPlay",
+      "has_synced": true,
+      "path": "select/17_tv_off_Kendrick_Lamar_feat._Lefty_GunPlay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tv off (feat. lefty gunplay)",
+      "artist": "Kendrick Lamar, Lefty Gunplay",
+      "has_synced": false,
+      "path": "select/pl_01_tv_off_(feat._lefty_gunplay)_Kendrick_Lamar,_Lefty_Gunplay.txt"
+    }
+  ]
+}
